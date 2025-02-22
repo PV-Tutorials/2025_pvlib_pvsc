@@ -1,5 +1,5 @@
 # Tutorial on using pvlib to model bifacial single-axis tracker systems
-![alt text](_static/pvlib_pvps_logo.png)
+![alt text](https://raw.githubusercontent.com/PV-Tutorials/2025_pvlib_pvps_task13/refs/heads/main/static/pvlib_pvps_logo.png)
 
 The [IEA PVPS Task 13](https://iea-pvps.org/research-tasks/performance-operation-and-reliability-of-photovoltaic-systems/) is looking forward to an engaging Workshop on Bifacial Tracking Systems in Rome, Italy.
 
